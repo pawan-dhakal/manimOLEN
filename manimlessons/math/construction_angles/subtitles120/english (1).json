@@ -1,0 +1,7 @@
+{
+    "step_1": "Draw a line segment OA.",
+    "step_2": "Taking O as center, draw an arc intersecting ray OA at P.",
+    "step_3": "With P as center, draw an arc to intersect the previous arc at Q.",
+    "step_4": "With Q as center, draw an arc to intersect the previous arc at S.",
+    "step_5": "Join OS and extend it. Measure the angle ∡SOP using a protractor. ∡SOP = 120°."
+}

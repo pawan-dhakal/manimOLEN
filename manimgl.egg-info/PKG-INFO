@@ -1,3 +1,29 @@
+Metadata-Version: 2.1
+Name: manimgl
+Version: 1.7.1
+Summary: Animation engine for explanatory math videos
+Home-page: https://github.com/3b1b/manim
+Author: Grant Sanderson
+Author-email: grant@3blue1brown.com
+License: MIT
+Project-URL: Bug Tracker, https://github.com/3b1b/manim/issues
+Project-URL: Documentation, https://3b1b.github.io/manim/
+Project-URL: Source Code, https://github.com/3b1b/manim
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Topic :: Scientific/Engineering
+Classifier: Topic :: Multimedia :: Video
+Classifier: Topic :: Multimedia :: Graphics
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Natural Language :: English
+Description-Content-Type: text/markdown; charset=UTF-8
+License-File: LICENSE.md
+
 <p align="center">
     <a href="https://github.com/3b1b/manim">
         <img src="https://raw.githubusercontent.com/3b1b/manim/master/logo/cropped.png">
@@ -117,3 +143,5 @@ Is always welcome.  As mentioned above, the [community edition](https://github.c
 
 ## License
 This project falls under the MIT license.
+
+
